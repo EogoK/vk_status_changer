@@ -1,0 +1,4 @@
+.vs
+/vk_sync_status/*.dat
+Debug
+/vk_sync_status/cookie.txt
